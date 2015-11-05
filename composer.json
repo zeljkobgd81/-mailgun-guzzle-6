@@ -1,5 +1,5 @@
 {
-    "name": "guzzlehttp/guzzle",
+    "name": "zeljkobgd81/mailgun-guzzle-6",
     "type": "library",
     "description": "Guzzle is a PHP HTTP client library and framework for building RESTful web service clients",
     "keywords": ["framework", "http", "rest", "web service", "curl", "client", "HTTP client"],
